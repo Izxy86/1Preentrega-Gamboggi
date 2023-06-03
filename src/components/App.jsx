@@ -6,7 +6,7 @@ const App = () => {
   return (
     <>
       <Navbar/>
-      <ItemListContainer saludo={"Hola Bienvenido a la Juguetería del Nerd"}/>
+      <ItemListContainer saludo={"Hola Bienvenido a Nerdeala"}/>
       
       
     </>
